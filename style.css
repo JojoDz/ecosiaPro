@@ -1,0 +1,39 @@
+body{
+    font-family: Campton,helvetica,arial,sans-serif;
+}
+h2{
+    color: green;
+}
+
+.logo{
+    width: 15vw;
+    /* centrer l'image*/
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 200px;
+    margin-bottom: 40px;
+}
+
+p, h2{
+    text-align: center;
+}
+
+input {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 40vw;
+    font-size: x-large;
+}
+
+nav{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+.compteur{
+    font-size: 2em;
+    color: #00AAAA;
+}
